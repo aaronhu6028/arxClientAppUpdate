@@ -1,8 +1,8 @@
 [
   {
-    "appID": "arxClientApp",
-    "version": "1.0.0.24",
-    "url": "https://github.com/aaronhu8026/arxClientAppUpdate/raw/main/arxClientApp/arxClientApp_1.0.0.24.apk",
+    "appID": "arxClient",
+    "version": "1.0.0.25",
+    "url": "https://github.com/aaronhu8026/arxClientAppUpdate/raw/main/arxClient/arxClient_1.0.0.25.apk",
     "projPath": "../arxClientApp/",
     "description": "",
     "sha256": ""
