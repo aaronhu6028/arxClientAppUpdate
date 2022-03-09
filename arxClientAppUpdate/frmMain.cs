@@ -76,7 +76,7 @@ namespace arxClientAppUpdater
             string dstFile1 = string.Format("{0}/{1}.apk", project, project);
             string dstFile2 = string.Format("{0}/{1}_{2}.apk", project, project, item.version);
             item.url = serverUri + dstFile2.Replace('\\', '/');
-            item.sha256 = CalcSha256(apkFile);
+            item.sha256 = ""; // CalcSha256(apkFile);
 
             string jsonString = JsonConvert.SerializeObject(Global.listItems, Newtonsoft.Json.Formatting.Indented);
             File.WriteAllText(updateJson, jsonString);
