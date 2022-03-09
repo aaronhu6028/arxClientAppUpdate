@@ -14,7 +14,7 @@ namespace arxClientAppUpdater
     public partial class frmMain : Form
     {
         const string updateJson = "update.json";
-        const string serverUri = "https://github.com/aaronhu8026/arxClientAppUpdate/raw/main/";
+        const string serverUri = "https://github.com/aaronhu6028/arxClientAppUpdate/raw/main/";
 
         public frmMain()
         {
