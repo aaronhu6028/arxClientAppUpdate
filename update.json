@@ -14,5 +14,13 @@
     "projPath": "../../git/flutterApp/read_japan/",
     "description": "",
     "sha256": ""
+  },
+  {
+    "appID": "read_news",
+    "version": "1.0.0.2",
+    "url": "https://github.com/aaronhu6028/arxClientAppUpdate/raw/main/read_news/read_news_1.0.0.2.apk",
+    "projPath": "../../git/flutterApp/read_news/",
+    "description": "",
+    "sha256": ""
   }
 ]
