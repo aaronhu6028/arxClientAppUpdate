@@ -17,8 +17,8 @@
   },
   {
     "appID": "read_news",
-    "version": "1.0.0.3",
-    "url": "https://github.com/aaronhu6028/arxClientAppUpdate/raw/main/read_news/read_news_1.0.0.3.apk",
+    "version": "1.0.0.4",
+    "url": "https://github.com/aaronhu6028/arxClientAppUpdate/raw/main/read_news/read_news_1.0.0.4.apk",
     "projPath": "../../git/flutterApp/read_news/",
     "description": "",
     "sha256": ""
